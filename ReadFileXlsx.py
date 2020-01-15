@@ -1,5 +1,7 @@
 import math
-import xlrd
+import xlrd 
+
+
 
 # Czyta plik z trscią zadania
 file = open("task.txt")
